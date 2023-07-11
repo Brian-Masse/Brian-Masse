@@ -22,4 +22,6 @@
 
 I’m always looking for more time to spend coding, whether that be in a professional context or on my own, so reach out if you’re interested in collaborating on any projects!
 
+Pinned below are all my published projects.
+
 You can contact me directly at brianm25it@gmail.com 🦧
