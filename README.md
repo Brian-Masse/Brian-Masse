@@ -6,8 +6,8 @@
 🔖 I’m a young independent developer based in *Reading Massachusetts*. I specialize in **front-end development**, with a concentration in **App UI, UX, and system modeling**, but have worked with **low-level hardware/software interaction, relational / reactionary Database management, game engines, and data visualization** throughout the past 5 years.
 
 #### **I’m currently working on**
-	- An AI powered study app aimed at making intelligent study features, including study routining, memorization strategies, and organizational suggestions accessible to students without immediate access to teachers, tutors, or private support programs.
-	- A MAcOS Graphics Renderer, written in C, aimed at optimizing performance and lighting simulation for object files
+	- Recall - a productivity tool that helps users journal and connect with the events in their daily life. It leverages sophisticated data visualization tools to then display insights and patterns about how they spend their time and track their progress towards certain goals.
+	- A social media platform centered around solutions and innovations surrounding the climate crisis. It connects individuals with buisnesses and organizations who are working towards individual climate goals, looking for fundraising for certain sustainable solutions, and generall excites the population around climate action.
 
 #### **I’m currently learning**
 	- Machine Learning models for generating habitual study patterns
@@ -19,6 +19,13 @@
 	- The climate crisis, and ways that patterned thinking and computer science tools can be used to create systems of information, support, and pressure to simultaneously relieve disadvantaged communities suffering from global warming, and push climate action forward in nuanced and systemic ways. 
 	- The role of human programmers as intellects and artists in the contemporary computer science industry, especially with the emergence of AI generated code, frameworks, and programs. 
 	- The emerging economic strategies and management behind manufacturing and delivering software products as a buisness
+
+ #### **Check out my best projects**
+These projects are just a subset of the larger repository of publically released, activley maintained projects, I have developed!
+
+ - [Recall.](https://apps.apple.com/us/app/recall/id6466136108)
+ - [Echeveria](https://apps.apple.com/us/app/echeveria/id6451054692)
+ - [Engine - Remastered](https://github.com/Brian-Masse/Enging-Remastered)
 
 I’m always looking for more time to spend coding, whether that be in a professional context or on my own, so reach out if you’re interested in collaborating on any projects!
 
