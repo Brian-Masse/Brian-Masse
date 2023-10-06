@@ -3,7 +3,7 @@
 
 ### Hello :)
 
-🔖 I’m a young independent developer based in *Reading Massachusetts*. I specialize in **front-end development**, with a concentration in **App UI, UX, and system modeling**, but have worked with **low-level hardware/software interaction, relational / reactionary Database management, game engines, and data visualization** throughout the past 5 years.
+🔖 I’m a young independent developer based in *Reading Massachusetts*. I specialize in **front-end development**, with a concentration in **App UI, UX, and system modeling**, but have worked with **low-level hardware/software interaction, relational / reactionary Database management, game engines, and data visualization** throughout the past 6 years.
 
 #### **I’m currently working on**
 	- Recall - a productivity tool that helps users journal and connect with the events in their daily life. It leverages sophisticated data visualization tools to then display insights and patterns about how they spend their time and track their progress towards certain goals.
