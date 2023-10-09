@@ -20,15 +20,14 @@
 	- The role of human programmers as intellects and artists in the contemporary computer science industry, especially with the emergence of AI generated code, frameworks, and programs. 
 	- The emerging economic strategies and management behind manufacturing and delivering software products as a buisness
 
- #### **Check out my best projects**
-These projects are just a subset of the larger repository of publically released, activley maintained projects, I have developed!
+#### **Contact**
+Im always looking to collaborate with new people, organizations, and companies, so please reach out with opportunities, projects you're working on, or just to chat :)
 
- - [Recall.](https://apps.apple.com/us/app/recall/id6466136108)
- - [Echeveria](https://apps.apple.com/us/app/echeveria/id6451054692)
- - [Engine - Remastered](https://github.com/Brian-Masse/Enging-Remastered)
+>🔖 [instagram](https://www.instagram.com/bmasse_gd/)
+>
+>🔖 [threads](https://www.threads.net/@brian_masse)
+>
+>🔖 [linkedIn](https://www.linkedin.com/in/brian-masse-7a1b12233/)
+>
+> 🔖 brianm25it@gmail.com
 
-I’m always looking for more time to spend coding, whether that be in a professional context or on my own, so reach out if you’re interested in collaborating on any projects!
-
-Pinned below are all my published projects.
-
-You can contact me directly at brianm25it@gmail.com 🦧
