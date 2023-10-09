@@ -7,7 +7,7 @@
 
 #### **I’m currently working on**
 	- Recall - a productivity tool that helps users journal and connect with the events in their daily life. It leverages sophisticated data visualization tools to then display insights and patterns about how they spend their time and track their progress towards certain goals.
-	- A social media platform centered around solutions and innovations surrounding the climate crisis. It connects individuals with buisnesses and organizations who are working towards individual climate goals, looking for fundraising for certain sustainable solutions, and generall excites the population around climate action.
+	- A social media platform centered around climate solutions and innovations. It connects individuals with buisnesses and organizations who are working towards individual climate goals or looking for fundraising for sustainable development to mobilize and excite the general public around climate action.
 
 #### **I’m currently learning**
 	- Machine Learning models for generating habitual study patterns
