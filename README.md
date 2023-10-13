@@ -6,8 +6,12 @@
 🔖 I’m a young independent developer based in *Reading Massachusetts*. I specialize in **front-end development**, with a concentration in **App UI, UX, and system modeling**, but have worked with **low-level hardware/software interaction, relational / reactionary Database management, game engines, and data visualization** throughout the past 6 years.
 
 #### **I’m currently working on**
-	- Recall - a productivity tool that helps users journal and connect with the events in their daily life. It leverages sophisticated data visualization tools to then display insights and patterns about how they spend their time and track their progress towards certain goals.
-	- A social media platform centered around climate solutions and innovations. It connects individuals with buisnesses and organizations who are working towards individual climate goals or looking for fundraising for sustainable development to mobilize and excite the general public around climate action.
+
+*Recall* - A calendar based app designed around recording daily events to be able to view trends in productivity, goal completion, and time management over time. It is built natively in swift and swiftUI on the front end, and uses MongoDB and Realm DeviceSync on the backend.
+
+*Cactus* - A social media platform centered around climate solutions and innovations. It connects individuals with buisnesses and organizations who are working towards individual climate goals or looking for fundraising for sustainable development to mobilize and excite the general public around climate action.
+
+*Echeveria* - A social platform designed around recording game statistics. Users create social groups to share their personal and collective game data—wins, losses, winstreaks, time spent playing games—with their friends. It is built with swift + swiftUI for front end, and MonngoDB + Realm DeviceSync for back end.
 
 #### **I’m currently learning**
 	- Machine Learning models for generating habitual study patterns
