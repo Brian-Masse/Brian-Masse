@@ -1,37 +1,50 @@
+# Hello.
 
-<!-- ![banner]( https://github.com/Brian-Masse/Brian-Masse/blob/main/style/banner.png ) -->
+My name is Brian Masse, I'm an **artist and developer**. I've specialiezed in front-end development for the past 6 years, with a concentraion in **App UI, UX, and system modeling**. My work is purpose driven: I seek to blend the study of design, performance, and expereince to create products with authenticity and craftsmenship. 
 
-### Hello :)
+I love to share my work with others, whether through open source collaboration, publications, or product releases, so if you like what I do, please reach out!  
 
-🔖 I’m a young independent developer based in *Reading Massachusetts*. I specialize in **front-end development**, with a concentration in **App UI, UX, and system modeling**, but have worked with **low-level hardware/software interaction, relational / reactionary Database management, game engines, and data visualization** throughout the past 6 years.
+# Upcoming Projects
 
-#### **I’m currently working on**
+### ***The MOMA Project***
+This is a library of stylish app components that boast high flexability and delighftul interactions. The project consists of designing, collecting, and sharing these components from developers thoughout the apple dev ecosystem with a wider audience. The goal is to celebrate good craftmenship and usability in the field of software and applications. 
 
-*Recall* - A calendar based app designed around recording daily events to be able to view trends in productivity, goal completion, and time management over time. It is built natively in swift and swiftUI on the front end, and uses MongoDB and Realm DeviceSync on the backend.
+If you are interested in this project, please reach out ot me, I am aloways looking for new developers to partner with!
+> [iOS App, Swift Library, Swift + SwiftUI, MongoDB + Realm DeviceSync]
 
-*Cactus* - A social media platform centered around climate solutions and innovations. It connects individuals with buisnesses and organizations who are working towards individual climate goals or looking for fundraising for sustainable development to mobilize and excite the general public around climate action.
 
-*Echeveria* - A social platform designed around recording game statistics. Users create social groups to share their personal and collective game data—wins, losses, winstreaks, time spent playing games—with their friends. It is built with swift + swiftUI for front end, and MonngoDB + Realm DeviceSync for back end.
 
-#### **I’m currently learning**
-	- Machine Learning models for generating habitual study patterns
-	- New design Patterns for quick and secure data storage and retrieval
-	- Optimized buffer techniques for offloading work to GPU (a)syncrhonously
-	- Linear algebra based 3D graphics optimization 
+# Past Projects
+I was the lead designer and developer on all of these projects. Among these featured projects, I hace severla others including graphics Accelerators in C, pythonic data visualizers, and custom game engines. Check them out among all my [repos.](https://github.com/Brian-Masse?tab=repositories&q=UI&type=&language=&sort=)
 
-#### **I’m interested in**
-	- The climate crisis, and ways that patterned thinking and computer science tools can be used to create systems of information, support, and pressure to simultaneously relieve disadvantaged communities suffering from global warming, and push climate action forward in nuanced and systemic ways. 
-	- The role of human programmers as intellects and artists in the contemporary computer science industry, especially with the emergence of AI generated code, frameworks, and programs. 
-	- The emerging economic strategies and management behind manufacturing and delivering software products as a buisness
+### [***🔖 Shorter***](https://github.com/Brian-Masse/Shorter)
 
-#### **Contact**
+Capture and send daily moments directly to your friends home / lock screne to stay in touch over long distances
+> [iOS App, Swift + SwiftUI, MongoDB + Realm DeviceSync]
+
+### [***🔖 UIUniversals***](https://github.com/Brian-Masse/UIUniversals)
+
+Library of handcrafted Swift & SwiftUI views, viewModifiers, and extensions. Extends the base functionality and style of mainy foundational views in SwiftUI while maintainging adaptability and user customizability. 
+> [Open Source Librry, Swift + SwiftUI, Cocoapods, Ruby]
+
+### [***🔖 Recall.***](https://github.com/Brian-Masse/Recall)
+
+Record daily events to viualize trends in productivity, mood, goal completion over time.
+> [iOS App, Swift + swiftUI, MongoDB + Realm DeviceSync]
+
+### [***🔖 Echeveria***](https://github.com/Brian-Masse/Echeveria)
+
+Log data and statistics from games with your friends. Visualize and share data insights such as records, PBs, and winstreaks.
+> [iOS App, Swift + SwiftUI, MongoDB + RealmDevice Sync]
+
+
+
+# Contact
 Im always looking to collaborate with new people, organizations, and companies, so please reach out with opportunities, projects you're working on, or just to chat :)
 
->🔖 [instagram](https://www.instagram.com/bmasse_gd/)
+> [Portfolio](https://www.brian-masse-design.com/)
 >
->🔖 [threads](https://www.threads.net/@brian_masse)
+> [threads](https://www.threads.net/@brian_masse)
 >
->🔖 [linkedIn](https://www.linkedin.com/in/brian-masse-7a1b12233/)
->
-> 🔖 brianm25it@gmail.com
+> [linkedIn](https://www.linkedin.com/in/brian-masse-7a1b12233/)
 
