@@ -39,7 +39,7 @@ Log data and statistics from games with your friends. Visualize and share data i
 
 
 
-# Contacts
+# Contact
 Im always looking to collaborate with new people, organizations, and companies, so please reach out with opportunities, projects you're working on, or just to chat :)
 
 > [Portfolio](https://www.brian-masse-design.com/)
