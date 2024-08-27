@@ -4,17 +4,7 @@ My name is Brian Masse, I'm an **artist and developer**. I've specialiezed in fr
 
 I love to share my work with others, whether through open source collaboration, publications, or product releases, so if you like what I do, please reach out!  
 
-# Upcoming Projects
-
-### ***The MOMA Project***
-This is a library of stylish app components that boast high flexability and delighftul interactions. The project consists of designing, collecting, and sharing these components from developers thoughout the apple dev ecosystem with a wider audience. The goal is to celebrate good craftmenship and usability in the field of software and applications. 
-
-If you are interested in this project, please reach out ot me, I am aloways looking for new developers to partner with!
-> [iOS App, Swift Library, Swift + SwiftUI, MongoDB + Realm DeviceSync]
-
-
-
-# Past Projects
+# Projects
 I was the lead designer and developer on all of these projects. Among these featured projects, I hace severla others including graphics Accelerators in C, pythonic data visualizers, and custom game engines. Check them out among all my [repos.](https://github.com/Brian-Masse?tab=repositories&q=UI&type=&language=&sort=)
 
 ### [***🔖 Shorter***](https://github.com/Brian-Masse/Shorter)
